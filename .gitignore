@@ -7,6 +7,18 @@
 # BlueJ files
 *.ctxt
 
+# IntelliJ files
+.idea/
+out/
+*.iml
+
+# Eclipse files
+bin/
+.metadata/
+.settings/
+.recommenders/
+RemoteSystemsTempFiles/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
